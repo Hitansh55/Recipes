@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+.title{
+    color: brown;
+    font-size: 80px;
+}
+.pasta{
+    text-align: center;
+}
+p,ul,ol{
+text-align: center;
+list-style-position:inside;
+
+}
+
